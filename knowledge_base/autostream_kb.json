@@ -1,0 +1,53 @@
+{
+  "company": "AutoStream",
+  "tagline": "Automated video editing tools for content creators.",
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price_monthly": 29,
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Basic editing tools",
+        "Email support"
+      ]
+    },
+    {
+      "name": "Pro Plan",
+      "price_monthly": 79,
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution",
+        "AI captions",
+        "Priority 24/7 support",
+        "Advanced editing tools",
+        "Custom branding"
+      ]
+    }
+  ],
+  "policies": [
+    "No refunds after 7 days of purchase.",
+    "24/7 customer support is available exclusively on the Pro plan.",
+    "Basic plan users can upgrade to Pro at any time; billing is prorated.",
+    "Annual billing offers 2 months free on both plans.",
+    "Free 7-day trial available for new users on the Pro plan."
+  ],
+  "faq": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports YouTube, Instagram, TikTok, Twitter/X, and LinkedIn exports."
+    },
+    {
+      "question": "Can I cancel anytime?",
+      "answer": "Yes. You can cancel your subscription at any time. Cancellations take effect at the end of the current billing cycle."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, new users get a 7-day free trial on the Pro plan with no credit card required."
+    },
+    {
+      "question": "What is AI captions?",
+      "answer": "AI captions automatically generates accurate subtitles and captions for your videos, supporting 20+ languages."
+    }
+  ]
+}
